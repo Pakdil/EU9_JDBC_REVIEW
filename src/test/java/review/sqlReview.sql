@@ -126,3 +126,11 @@ select round(sum(COMMISSION_PCT)) from EMPLOYEES;
 -- if the number after decimal point is smaller than 5, it will not round to the whole number
 
 
+
+
+
+
+
+
+
+
