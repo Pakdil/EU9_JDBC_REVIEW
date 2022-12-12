@@ -1,2 +1,4 @@
-package review;public class ConnectionTest {
+package review;
+
+public class ConnectionTest {
 }
